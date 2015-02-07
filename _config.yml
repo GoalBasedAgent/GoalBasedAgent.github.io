@@ -1,0 +1,11 @@
+# Site settings
+title: GoalBasedAgent Blog
+email: goalbasedagentweb@gmail.com
+description: "Progressing AI"
+baseurl: ""
+url: "http://goalbasedagent.github.io"
+twitter_username: GoalBasedAgent
+github_username: GoalBasedAgent
+# Build settings
+markdown: redcarpet
+permalink: pretty
